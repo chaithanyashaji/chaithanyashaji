@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaithanyashaji" alt="chaithanyashaji" /></a> </p>
 
-- 🔭 I’m currently working on [Uni-Verse](https://github.com/chaithanyashaji/UniVerse11)
+- 🔭 I’m currently working on [EventON](https://github.com/chaithanyashaji/EventON)
 
 - 🌱 I’m currently learning **Machine Learning**
 
