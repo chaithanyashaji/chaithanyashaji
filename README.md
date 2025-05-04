@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaithanyashaji" alt="chaithanyashaji" /></a> </p>
 
-- 🔭 I’m currently working on Law4Her. 
+- 🔭 I’m currently working on Snaptiqz. 
 
 - 🌱 I’m currently learning **Machine Learning**
 
